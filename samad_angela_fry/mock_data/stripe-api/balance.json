@@ -1,9 +1,0 @@
-{
-  "object": "balance",
-  "available": [
-    {
-      "amount": 260000,
-      "currency": "usd"
-    }
-  ]
-}

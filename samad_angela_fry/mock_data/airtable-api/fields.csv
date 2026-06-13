@@ -1,0 +1,8 @@
+id,name,type
+fldStudentName01,Name,singleLineText
+fldEmail01,Email,email
+fldPhone01,Phone,phoneNumber
+fldClass01,Class,singleSelect
+fldRank01,Target Rank,singleSelect
+fldWaiver01,Waiver Signed,checkbox
+fldPaid01,Ceremony Paid,checkbox

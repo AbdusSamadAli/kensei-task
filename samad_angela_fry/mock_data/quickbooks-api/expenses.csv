@@ -1,0 +1,4 @@
+Id,TxnDate,AccountRef,PaymentType,VendorRef,Line
+exp-201,2026-06-01,"{""value"": ""2"", ""name"": ""Roots Equipment Fund""}",CreditCard,"{""value"": ""101"", ""name"": ""Recife Capoeira Wear""}","[{""Amount"": 520.0, ""Description"": ""10 Uniform Pants with Trim""}]"
+exp-202,2026-06-05,"{""value"": ""1"", ""name"": ""Golden State Checking""}",CreditCard,"{""value"": ""102"", ""name"": ""Folsom Rail Brewing""}","[{""Amount"": 125.0, ""Description"": ""Feijoada Stew and Sodas""}]"
+exp-203,2026-06-08,"{""value"": ""1"", ""name"": ""Golden State Checking""}",Cash,"{""value"": ""103"", ""name"": ""Party City""}","[{""Amount"": 45.0, ""Description"": ""Ribbons and Balloons""}]"

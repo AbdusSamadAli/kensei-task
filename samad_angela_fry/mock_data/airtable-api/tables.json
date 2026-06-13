@@ -1,9 +1,0 @@
-[
-  {
-    "baseId": "appRootsRoster01",
-    "id": "tblStudents00001",
-    "name": "Students",
-    "primaryFieldId": "fldStudentName01",
-    "records_json": "records_students.json"
-  }
-]

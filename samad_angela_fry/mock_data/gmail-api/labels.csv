@@ -1,0 +1,6 @@
+id,name,type
+INBOX,INBOX,system
+SENT,SENT,system
+TRASH,TRASH,system
+Label_roots,Roots Academy,user
+Label_cycling,Cycling,user

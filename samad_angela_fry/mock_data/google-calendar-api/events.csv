@@ -1,0 +1,6 @@
+id,calendarId,summary,start,end,location,description
+evt-pt-1113,primary,PT Clinic Shift at Sequoia Rehab,2026-11-13T07:30:00-08:00,2026-11-13T16:30:00-08:00,"2840 Freeport Blvd, Sacramento, CA",Outpatient Physical Therapy sessions
+evt-kids-1114,roots-academy,Saturday Kids Class,2026-11-14T09:00:00-08:00,2026-11-14T11:00:00-08:00,"1615 Broadway, Sacramento, CA",Saturday morning kids training class
+evt-adult-1114,roots-academy,Saturday Adult Class,2026-11-14T11:30:00-08:00,2026-11-14T13:00:00-08:00,"1615 Broadway, Sacramento, CA",Standard adult class
+evt-ceremony-1114,roots-academy,Roots Annual Belt Ceremony,2026-11-14T14:00:00-08:00,2026-11-14T17:00:00-08:00,"1615 Broadway, Sacramento, CA","Biggest event of the year, evaluation by Mestre Pintado"
+evt-stew-1115,primary,Sunday Stew Family Dinner,2026-11-15T13:00:00-08:00,2026-11-15T16:00:00-08:00,Home (Land Park),Sunday cooking ritual with Mestre Pintado and Tereza

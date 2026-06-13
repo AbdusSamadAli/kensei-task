@@ -1,0 +1,11 @@
+id,amount,currency,customer,description,status
+chg_9901,52000,usd,cus_recife,Recife Capoeira Wear uniform purchase,succeeded
+chg_9902,4500,usd,cus_lucas,Lucas Silva ceremony fee,succeeded
+chg_9903,4500,usd,cus_marina,Marina Costa ceremony fee,succeeded
+chg_9904,4500,usd,cus_diego,Diego Santos ceremony fee,succeeded
+chg_9905,4500,usd,cus_camila,Camila Rocha ceremony fee,succeeded
+chg_9906,4500,usd,cus_tiago,Tiago Almeida ceremony fee,succeeded
+chg_9907,4500,usd,cus_beatriz,Beatriz Gomes ceremony fee,succeeded
+chg_9908,4500,usd,cus_bruno,Bruno Lima ceremony fee,succeeded
+chg_9909,4500,usd,cus_amanda,Amanda Souza ceremony fee,succeeded
+chg_9910,4500,usd,cus_rafael,Rafael Dias ceremony fee,succeeded
