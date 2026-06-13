@@ -1,1 +1,8 @@
-[]
+{
+  "QueryResponse": {
+    "BillPayment": [],
+    "startPosition": 1,
+    "maxResults": 0,
+    "totalCount": 0
+  }
+}

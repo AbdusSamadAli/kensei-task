@@ -1,4 +1,26 @@
 {
+  "CompanyName": "Roots Martial Arts Academy",
+  "LegalName": "Roots Martial Arts Academy LLC",
+  "CompanyAddr": {
+    "Line1": "1615 Broadway",
+    "City": "Sacramento",
+    "CountrySubDivisionCode": "CA",
+    "PostalCode": "95818"
+  },
+  "Email": {
+    "Address": "angela.fry@voissync.ai"
+  },
+  "PrimaryPhone": {
+    "FreeFormNumber": "(916) 555-0811"
+  },
   "FiscalYearStartMonth": "January",
-  "EmployerRef": "Roots-Martial-Arts-LLC"
+  "Country": "US",
+  "IndustryType": "Sports & Recreation",
+  "NameValue": [
+    { "Name": "OwnerName", "Value": "Angela Fry" }
+  ],
+  "MetaData": {
+    "CreateTime": "2021-03-15T10:00:00-07:00",
+    "LastUpdatedTime": "2026-04-30T09:15:00-07:00"
+  }
 }

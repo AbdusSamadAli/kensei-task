@@ -109,6 +109,9 @@
 - **Instagram**: @angela_martialarts, about 4,800 followers, capoeira clips and academy updates.
 - **Payments**: Venmo and Zelle handles for Roots class payments and family transfers; Stripe and Square also handle Roots dues.
 - **Banking**: household checking and emergency fund at Golden State Credit Union.
+- **Airtable**: Student roster, attendance, belt-rank history, parent contacts. The Roots database in Airtable is named "Roots Academy Database" (base ID: `appRootsRoster01`). The table is `Students`. Due to a legacy schema setup:
+  - The `Company` field is used to track whether the Waiver is signed (`True` or `False`).
+  - The `Role` field is used to track whether the Ceremony fee has been paid (`True` or `False`).
 
 ## Preferences
 - **Coffee**: espresso style, strong, small, black, no sugar. Three or four small cups daily; sometimes a late shot before bed just for the ritual of holding the small ceramic cup.

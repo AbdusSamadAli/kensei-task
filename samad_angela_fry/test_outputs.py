@@ -5,7 +5,7 @@ import csv
 
 
 REPORT_PATH = "report.md"
-AIRTABLE_ROSTER_PATH = "mock_data/airtable-api/records_students.csv"
+AIRTABLE_ROSTER_PATH = "mock_data/airtable-api/records_contacts.csv"
 STRIPE_CHARGES_PATH = "mock_data/stripe-api/charges.csv"
 QUICKBOOKS_EXPENSES_PATH = "mock_data/quickbooks-api/expenses.json"
 
