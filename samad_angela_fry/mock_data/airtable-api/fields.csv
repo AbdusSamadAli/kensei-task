@@ -1,8 +1,8 @@
-id,name,type
-fldStudentName01,Name,singleLineText
-fldEmail01,Email,email
-fldPhone01,Phone,phoneNumber
-fldClass01,Class,singleSelect
-fldRank01,Target Rank,singleSelect
-fldWaiver01,Waiver Signed,checkbox
-fldPaid01,Ceremony Paid,checkbox
+tableId,id,name,type
+tblStudents00001,fldStudentName01,Name,singleLineText
+tblStudents00001,fldEmail01,Email,email
+tblStudents00001,fldPhone01,Phone,phoneNumber
+tblStudents00001,fldClass01,Class,singleSelect
+tblStudents00001,fldRank01,Target Rank,singleSelect
+tblStudents00001,fldWaiver01,Waiver Signed,checkbox
+tblStudents00001,fldPaid01,Ceremony Paid,checkbox

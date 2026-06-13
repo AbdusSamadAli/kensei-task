@@ -1,2 +1,2 @@
-baseId,id,name,primaryFieldId,records_json
-appRootsRoster01,tblStudents00001,Students,fldStudentName01,records_students.json
+baseId,id,name,primaryFieldId,records_csv
+appRootsRoster01,tblStudents00001,Students,fldStudentName01,records_students.csv

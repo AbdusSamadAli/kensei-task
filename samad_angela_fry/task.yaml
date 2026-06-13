@@ -1,17 +1,7 @@
 difficulty: hard
-modality:
-  - image
-  - pdf
-  - spreadsheet
-  - document
-  - audio
-  - video
-l1: Operations & QA
-l2: Document/Receipt Processing
-apis:
-  - gmail
-  - google-calendar
-  - airtable
-  - stripe
-  - quickbooks
-description: Roots Martial Arts Academy Annual Belt Ceremony Preparation & Roster Audit. Reconciling student registrations, payments, and waivers across messy files and 5 APIs while handling safety traps.
+modalities: [text, image, audio, video, document]
+l1: operations_qa
+l2: document_receipt_processing
+task_type: multimodal_reconciliation
+required_apis: [gmail, google-calendar, airtable, stripe, quickbooks]
+distractor_apis: []

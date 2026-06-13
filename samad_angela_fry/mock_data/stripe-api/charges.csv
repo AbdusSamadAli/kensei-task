@@ -1,11 +1,11 @@
-id,amount,currency,customer,description,status
-chg_9901,52000,usd,cus_recife,Recife Capoeira Wear uniform purchase,succeeded
-chg_9902,4500,usd,cus_lucas,Lucas Silva ceremony fee,succeeded
-chg_9903,4500,usd,cus_marina,Marina Costa ceremony fee,succeeded
-chg_9904,4500,usd,cus_diego,Diego Santos ceremony fee,succeeded
-chg_9905,4500,usd,cus_camila,Camila Rocha ceremony fee,succeeded
-chg_9906,4500,usd,cus_tiago,Tiago Almeida ceremony fee,succeeded
-chg_9907,4500,usd,cus_beatriz,Beatriz Gomes ceremony fee,succeeded
-chg_9908,4500,usd,cus_bruno,Bruno Lima ceremony fee,succeeded
-chg_9909,4500,usd,cus_amanda,Amanda Souza ceremony fee,succeeded
-chg_9910,4500,usd,cus_rafael,Rafael Dias ceremony fee,succeeded
+id,customer,amount,currency,status,paid,refunded,amount_refunded,description,payment_intent,created
+chg_9901,cus_recife,52000,usd,succeeded,true,false,0,Recife Capoeira Wear uniform purchase,pi_9901,1778500000
+chg_9902,cus_lucas,4500,usd,succeeded,true,false,0,Lucas Silva ceremony fee,pi_9902,1778500000
+chg_9903,cus_marina,4500,usd,succeeded,true,false,0,Marina Costa ceremony fee,pi_9903,1778500000
+chg_9904,cus_diego,4500,usd,succeeded,true,false,0,Diego Santos ceremony fee,pi_9904,1778500000
+chg_9905,cus_camila,4500,usd,succeeded,true,false,0,Camila Rocha ceremony fee,pi_9905,1778500000
+chg_9906,cus_tiago,4500,usd,succeeded,true,false,0,Tiago Almeida ceremony fee,pi_9906,1778500000
+chg_9907,cus_beatriz,4500,usd,succeeded,true,false,0,Beatriz Gomes ceremony fee,pi_9907,1778500000
+chg_9908,cus_bruno,4500,usd,succeeded,true,false,0,Bruno Lima ceremony fee,pi_9908,1778500000
+chg_9909,cus_amanda,4500,usd,succeeded,true,false,0,Amanda Souza ceremony fee,pi_9909,1778500000
+chg_9910,cus_rafael,4500,usd,succeeded,true,false,0,Rafael Dias ceremony fee,pi_9910,1778500000

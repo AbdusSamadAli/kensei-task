@@ -1,4 +1,4 @@
-Id,DisplayName,Email
-101,Recife Capoeira Wear,orders@recifecapoeira.com
-102,Folsom Rail Brewing,info@folsomrailbrewing.com
-103,Party City,support@partycity.com
+Id,DisplayName,CompanyName,PrimaryEmailAddr,PrimaryPhone,BillAddr_Line1,BillAddr_City,BillAddr_CountrySubDivisionCode,BillAddr_PostalCode,Balance,Active,AcctNum,Vendor1099
+101,Recife Capoeira Wear,Recife Capoeira Wear,orders@recifecapoeira.com,,,,,,0.0,true,,false
+102,Folsom Rail Brewing,Folsom Rail Brewing,info@folsomrailbrewing.com,,,,,,0.0,true,,false
+103,Party City,Party City,support@partycity.com,,,,,,0.0,true,,false

@@ -1,0 +1,59 @@
+[
+  {
+    "Id": "exp-201",
+    "TxnDate": "2026-06-01",
+    "AccountRef": {
+      "value": "2",
+      "name": "Roots Equipment Fund"
+    },
+    "PaymentType": "CreditCard",
+    "VendorRef": {
+      "value": "101",
+      "name": "Recife Capoeira Wear"
+    },
+    "Line": [
+      {
+        "Amount": 520.0,
+        "Description": "10 Uniform Pants with Trim"
+      }
+    ]
+  },
+  {
+    "Id": "exp-202",
+    "TxnDate": "2026-06-05",
+    "AccountRef": {
+      "value": "1",
+      "name": "Golden State Checking"
+    },
+    "PaymentType": "CreditCard",
+    "VendorRef": {
+      "value": "102",
+      "name": "Folsom Rail Brewing"
+    },
+    "Line": [
+      {
+        "Amount": 125.0,
+        "Description": "Feijoada Stew and Sodas"
+      }
+    ]
+  },
+  {
+    "Id": "exp-203",
+    "TxnDate": "2026-06-08",
+    "AccountRef": {
+      "value": "1",
+      "name": "Golden State Checking"
+    },
+    "PaymentType": "Cash",
+    "VendorRef": {
+      "value": "103",
+      "name": "Party City"
+    },
+    "Line": [
+      {
+        "Amount": 45.0,
+        "Description": "Ribbons and Balloons"
+      }
+    ]
+  }
+]

@@ -1,2 +1,2 @@
-id,name
-appRootsRoster01,Roots Academy Database
+id,name,permissionLevel
+appRootsRoster01,Roots Academy Database,create

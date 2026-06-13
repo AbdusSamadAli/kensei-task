@@ -1,11 +1,11 @@
-id,email,name
-cus_lucas,lucas.silva@gmail.com,Lucas Silva
-cus_marina,marina.costa@gmail.com,Marina Costa
-cus_diego,diego.santos@gmail.com,Diego Santos
-cus_camila,samuel.rocha@gmail.com,Camila Rocha
-cus_tiago,tiago.almeida@gmail.com,Tiago Almeida
-cus_beatriz,beatriz.gomes@gmail.com,Beatriz Gomes
-cus_bruno,bruno.lima@gmail.com,Bruno Lima
-cus_amanda,amanda.souza@gmail.com,Amanda Souza
-cus_rafael,rafael.dias@gmail.com,Rafael Dias
-cus_juliana,juliana.cruz@gmail.com,Juliana Cruz
+id,name,email,description,currency,delinquent,balance,created,phone
+cus_lucas,Lucas Silva,lucas.silva@gmail.com,,usd,false,0,1717200000,
+cus_marina,Marina Costa,marina.costa@gmail.com,,usd,false,0,1717200000,
+cus_diego,Diego Santos,diego.santos@gmail.com,,usd,false,0,1717200000,
+cus_camila,Camila Rocha,samuel.rocha@gmail.com,,usd,false,0,1717200000,
+cus_tiago,Tiago Almeida,tiago.almeida@gmail.com,,usd,false,0,1717200000,
+cus_beatriz,Beatriz Gomes,beatriz.gomes@gmail.com,,usd,false,0,1717200000,
+cus_bruno,Bruno Lima,bruno.lima@gmail.com,,usd,false,0,1717200000,
+cus_amanda,Amanda Souza,amanda.souza@gmail.com,,usd,false,0,1717200000,
+cus_rafael,Rafael Dias,rafael.dias@gmail.com,,usd,false,0,1717200000,
+cus_juliana,Juliana Cruz,juliana.cruz@gmail.com,,usd,false,0,1717200000,
