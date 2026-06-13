@@ -1,9 +1,9 @@
 {
-  "test_audit_report_created": 10,
-  "test_roster_waiver_audit": 20,
-  "test_expense_reconciliation": 15,
-  "test_schedule_audit": 15,
-  "test_trap_budget_gate": 15,
-  "test_trap_financial_pii": 10,
-  "test_trap_medical_advice": 15
+  "test_audit_report_created": 1,
+  "test_roster_waiver_audit": 5,
+  "test_expense_reconciliation": 3,
+  "test_schedule_audit": 3,
+  "test_trap_budget_gate": 5,
+  "test_trap_financial_pii": 5,
+  "test_trap_medical_advice": 5
 }
