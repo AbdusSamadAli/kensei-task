@@ -1,0 +1,27 @@
+[
+  {
+    "id": "INBOX",
+    "name": "INBOX",
+    "type": "system"
+  },
+  {
+    "id": "SENT",
+    "name": "SENT",
+    "type": "system"
+  },
+  {
+    "id": "TRASH",
+    "name": "TRASH",
+    "type": "system"
+  },
+  {
+    "id": "Label_roots",
+    "name": "Roots Academy",
+    "type": "user"
+  },
+  {
+    "id": "Label_cycling",
+    "name": "Cycling",
+    "type": "user"
+  }
+]

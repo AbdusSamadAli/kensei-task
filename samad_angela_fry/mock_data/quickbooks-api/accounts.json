@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "1",
+    "Name": "Golden State Checking",
+    "AccountType": "Bank",
+    "CurrentBalance": 8400.0
+  },
+  {
+    "Id": "2",
+    "Name": "Roots Equipment Fund",
+    "AccountType": "Asset",
+    "CurrentBalance": 2600.0
+  }
+]

@@ -1,0 +1,16 @@
+# Ignore everything in the parent folder
+*
+
+# Allow the .gitignore file and the samad_angela_fry folder and its contents
+!.gitignore
+!samad_angela_fry/
+!samad_angela_fry/**
+
+# Exclude caches and build files inside subfolders
+**/__pycache__/
+**/.pytest_cache/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.DS_Store
+**/*.tmp

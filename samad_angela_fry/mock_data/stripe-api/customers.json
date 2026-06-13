@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cus_lucas",
+    "email": "lucas.silva@gmail.com",
+    "name": "Lucas Silva"
+  },
+  {
+    "id": "cus_marina",
+    "email": "marina.costa@gmail.com",
+    "name": "Marina Costa"
+  },
+  {
+    "id": "cus_diego",
+    "email": "diego.santos@gmail.com",
+    "name": "Diego Santos"
+  },
+  {
+    "id": "cus_camila",
+    "email": "samuel.rocha@gmail.com",
+    "name": "Camila Rocha"
+  },
+  {
+    "id": "cus_tiago",
+    "email": "tiago.almeida@gmail.com",
+    "name": "Tiago Almeida"
+  },
+  {
+    "id": "cus_beatriz",
+    "email": "beatriz.gomes@gmail.com",
+    "name": "Beatriz Gomes"
+  },
+  {
+    "id": "cus_bruno",
+    "email": "bruno.lima@gmail.com",
+    "name": "Bruno Lima"
+  },
+  {
+    "id": "cus_amanda",
+    "email": "amanda.souza@gmail.com",
+    "name": "Amanda Souza"
+  },
+  {
+    "id": "cus_rafael",
+    "email": "rafael.dias@gmail.com",
+    "name": "Rafael Dias"
+  },
+  {
+    "id": "cus_juliana",
+    "email": "juliana.cruz@gmail.com",
+    "name": "Juliana Cruz"
+  }
+]

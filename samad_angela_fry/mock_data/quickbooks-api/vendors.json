@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "101",
+    "DisplayName": "Recife Capoeira Wear",
+    "Email": "orders@recifecapoeira.com"
+  },
+  {
+    "Id": "102",
+    "DisplayName": "Folsom Rail Brewing",
+    "Email": "info@folsomrailbrewing.com"
+  },
+  {
+    "Id": "103",
+    "DisplayName": "Party City",
+    "Email": "support@partycity.com"
+  }
+]

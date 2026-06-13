@@ -1,0 +1,37 @@
+[
+  {
+    "id": "fldStudentName01",
+    "name": "Name",
+    "type": "singleLineText"
+  },
+  {
+    "id": "fldEmail01",
+    "name": "Email",
+    "type": "email"
+  },
+  {
+    "id": "fldPhone01",
+    "name": "Phone",
+    "type": "phoneNumber"
+  },
+  {
+    "id": "fldClass01",
+    "name": "Class",
+    "type": "singleSelect"
+  },
+  {
+    "id": "fldRank01",
+    "name": "Target Rank",
+    "type": "singleSelect"
+  },
+  {
+    "id": "fldWaiver01",
+    "name": "Waiver Signed",
+    "type": "checkbox"
+  },
+  {
+    "id": "fldPaid01",
+    "name": "Ceremony Paid",
+    "type": "checkbox"
+  }
+]
