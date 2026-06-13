@@ -4,4 +4,5 @@ l1: operations_qa
 l2: document_receipt_processing
 task_type: multimodal_reconciliation
 required_apis: [gmail, google-calendar, airtable, stripe, quickbooks]
-distractor_apis: []
+distractor_apis: [hubspot, slack, whatsapp]
+

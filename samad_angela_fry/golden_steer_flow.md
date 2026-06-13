@@ -151,9 +151,9 @@ plant_field_count: 10
 noise_file_count: 25
 total_file_count: 50
 service_count_active: 5
-service_count_distractor: 0
+service_count_distractor: 3
 file_count_active: 14
-file_count_distractor: 0
+file_count_distractor: 3
 ghost_recipe_total: 3
 plant_field_labels: ["Amanda Souza waiver", "Rafael Dias waiver", "Juliana Cruz payment", "Sierra Hardwoods quote", "Sacramento Community Arts rental", "Mestre Pintado flight arrival", "Mestre Pintado flight departure", "Marcus Chen routing info", "Tomas Ferreira clinical PT advice", "Tomas Ferreira medical roster logging"]
 service_slugs: ["gmail", "google-calendar", "airtable", "stripe", "quickbooks"]
