@@ -1,4 +1,4 @@
-# Roots Martial Arts Academy - Belt Ceremony Preparation & Roster Audit
+# Kensei Task
 
 This directory contains a multimodal benchmark task designed to evaluate agentic workflow performance on administrative audits, cross-modal reconciliation, and compliance boundaries.
 
