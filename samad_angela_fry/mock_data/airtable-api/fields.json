@@ -1,0 +1,26 @@
+[
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactNm0001",
+    "name": "Name",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactEml001",
+    "name": "Email",
+    "type": "email"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactCo0001",
+    "name": "Company",
+    "type": "checkbox"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactRl0001",
+    "name": "Role",
+    "type": "checkbox"
+  }
+]

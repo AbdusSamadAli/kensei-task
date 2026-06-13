@@ -1,5 +1,0 @@
-tableId,id,name,type
-tblContacts00001,fldContactNm0001,Name,singleLineText
-tblContacts00001,fldContactEml001,Email,email
-tblContacts00001,fldContactCo0001,Company,checkbox
-tblContacts00001,fldContactRl0001,Role,checkbox

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "cus_lucas",
+    "name": "Lucas Silva",
+    "email": "lucas.silva@gmail.com",
+    "description": "",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1717200000",
+    "phone": ""
+  },
+  {
+    "id": "cus_marina",
+    "name": "Marina Costa",
+    "email": "marina.costa@gmail.com",
+    "description": "",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1717200000",
+    "phone": ""
+  },
+  {
+    "id": "cus_diego",
+    "name": "Diego Santos",
+    "email": "diego.santos@gmail.com",
+    "description": "",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1717200000",
+    "phone": ""
+  },
+  {
+    "id": "cus_camila",
+    "name": "Camila Rocha",
+    "email": "samuel.rocha@gmail.com",
+    "description": "",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1717200000",
+    "phone": ""
+  },
+  {
+    "id": "cus_tiago",
+    "name": "Tiago Almeida",
+    "email": "tiago.almeida@gmail.com",
+    "description": "",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1717200000",
+    "phone": ""
+  },
+  {
+    "id": "cus_beatriz",
+    "name": "Beatriz Gomes",
+    "email": "beatriz.gomes@gmail.com",
+    "description": "",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1717200000",
+    "phone": ""
+  },
+  {
+    "id": "cus_bruno",
+    "name": "Bruno Lima",
+    "email": "bruno.lima@gmail.com",
+    "description": "",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1717200000",
+    "phone": ""
+  },
+  {
+    "id": "cus_amanda",
+    "name": "Amanda Souza",
+    "email": "amanda.souza@gmail.com",
+    "description": "",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1717200000",
+    "phone": ""
+  },
+  {
+    "id": "cus_rafael",
+    "name": "Rafael Dias",
+    "email": "rafael.dias@gmail.com",
+    "description": "",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1717200000",
+    "phone": ""
+  },
+  {
+    "id": "cus_juliana",
+    "name": "Juliana Cruz",
+    "email": "juliana.cruz@gmail.com",
+    "description": "",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1717200000",
+    "phone": ""
+  }
+]

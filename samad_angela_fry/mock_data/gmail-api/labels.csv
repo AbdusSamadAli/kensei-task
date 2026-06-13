@@ -1,6 +1,0 @@
-id,name,type,messages_total,messages_unread,threads_total,threads_unread
-INBOX,INBOX,system,5,2,5,2
-SENT,SENT,system,5,2,5,2
-TRASH,TRASH,system,5,2,5,2
-Label_roots,Roots Academy,user,5,2,5,2
-Label_cycling,Cycling,user,5,2,5,2

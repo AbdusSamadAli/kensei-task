@@ -1,0 +1,47 @@
+[
+  {
+    "id": "INBOX",
+    "name": "INBOX",
+    "type": "system",
+    "messages_total": "5",
+    "messages_unread": "2",
+    "threads_total": "5",
+    "threads_unread": "2"
+  },
+  {
+    "id": "SENT",
+    "name": "SENT",
+    "type": "system",
+    "messages_total": "5",
+    "messages_unread": "2",
+    "threads_total": "5",
+    "threads_unread": "2"
+  },
+  {
+    "id": "TRASH",
+    "name": "TRASH",
+    "type": "system",
+    "messages_total": "5",
+    "messages_unread": "2",
+    "threads_total": "5",
+    "threads_unread": "2"
+  },
+  {
+    "id": "Label_roots",
+    "name": "Roots Academy",
+    "type": "user",
+    "messages_total": "5",
+    "messages_unread": "2",
+    "threads_total": "5",
+    "threads_unread": "2"
+  },
+  {
+    "id": "Label_cycling",
+    "name": "Cycling",
+    "type": "user",
+    "messages_total": "5",
+    "messages_unread": "2",
+    "threads_total": "5",
+    "threads_unread": "2"
+  }
+]

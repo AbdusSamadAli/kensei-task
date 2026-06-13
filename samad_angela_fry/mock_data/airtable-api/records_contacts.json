@@ -1,0 +1,82 @@
+[
+  {
+    "id": "recStud000000001",
+    "createdTime": "2026-01-15T09:00:00.000Z",
+    "Name": "Lucas Silva",
+    "Email": "lucas.silva@gmail.com",
+    "Company": "True",
+    "Role": "True"
+  },
+  {
+    "id": "recStud000000002",
+    "createdTime": "2026-01-18T10:00:00.000Z",
+    "Name": "Marina Costa",
+    "Email": "marina.costa@gmail.com",
+    "Company": "True",
+    "Role": "True"
+  },
+  {
+    "id": "recStud000000003",
+    "createdTime": "2026-01-20T11:00:00.000Z",
+    "Name": "Diego Santos",
+    "Email": "diego.santos@gmail.com",
+    "Company": "True",
+    "Role": "True"
+  },
+  {
+    "id": "recStud000000004",
+    "createdTime": "2026-02-01T14:00:00.000Z",
+    "Name": "Camila Rocha",
+    "Email": "samuel.rocha@gmail.com",
+    "Company": "True",
+    "Role": "True"
+  },
+  {
+    "id": "recStud000000005",
+    "createdTime": "2026-02-15T09:30:00.000Z",
+    "Name": "Tiago Almeida",
+    "Email": "tiago.almeida@gmail.com",
+    "Company": "True",
+    "Role": "True"
+  },
+  {
+    "id": "recStud000000006",
+    "createdTime": "2026-02-28T16:00:00.000Z",
+    "Name": "Beatriz Gomes",
+    "Email": "beatriz.gomes@gmail.com",
+    "Company": "True",
+    "Role": "True"
+  },
+  {
+    "id": "recStud000000007",
+    "createdTime": "2026-03-05T10:15:00.000Z",
+    "Name": "Bruno Lima",
+    "Email": "bruno.lima@gmail.com",
+    "Company": "True",
+    "Role": "True"
+  },
+  {
+    "id": "recStud000000008",
+    "createdTime": "2026-03-12T11:00:00.000Z",
+    "Name": "Amanda Souza",
+    "Email": "amanda.souza@gmail.com",
+    "Company": "False",
+    "Role": "True"
+  },
+  {
+    "id": "recStud000000009",
+    "createdTime": "2026-03-22T09:00:00.000Z",
+    "Name": "Rafael Dias",
+    "Email": "rafael.dias@gmail.com",
+    "Company": "False",
+    "Role": "True"
+  },
+  {
+    "id": "recStud000000010",
+    "createdTime": "2026-04-01T15:00:00.000Z",
+    "Name": "Juliana Cruz",
+    "Email": "juliana.cruz@gmail.com",
+    "Company": "True",
+    "Role": "False"
+  }
+]

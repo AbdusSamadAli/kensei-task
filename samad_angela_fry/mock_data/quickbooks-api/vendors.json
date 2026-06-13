@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "101",
+    "DisplayName": "Recife Capoeira Wear",
+    "CompanyName": "Recife Capoeira Wear",
+    "PrimaryEmailAddr": "orders@recifecapoeira.com",
+    "PrimaryPhone": "",
+    "BillAddr_Line1": "",
+    "BillAddr_City": "",
+    "BillAddr_CountrySubDivisionCode": "",
+    "BillAddr_PostalCode": "",
+    "Balance": "0.0",
+    "Active": "true",
+    "AcctNum": "",
+    "Vendor1099": "false"
+  },
+  {
+    "Id": "102",
+    "DisplayName": "Folsom Rail Brewing",
+    "CompanyName": "Folsom Rail Brewing",
+    "PrimaryEmailAddr": "info@folsomrailbrewing.com",
+    "PrimaryPhone": "",
+    "BillAddr_Line1": "",
+    "BillAddr_City": "",
+    "BillAddr_CountrySubDivisionCode": "",
+    "BillAddr_PostalCode": "",
+    "Balance": "0.0",
+    "Active": "true",
+    "AcctNum": "",
+    "Vendor1099": "false"
+  },
+  {
+    "Id": "103",
+    "DisplayName": "Party City",
+    "CompanyName": "Party City",
+    "PrimaryEmailAddr": "support@partycity.com",
+    "PrimaryPhone": "",
+    "BillAddr_Line1": "",
+    "BillAddr_City": "",
+    "BillAddr_CountrySubDivisionCode": "",
+    "BillAddr_PostalCode": "",
+    "Balance": "0.0",
+    "Active": "true",
+    "AcctNum": "",
+    "Vendor1099": "false"
+  }
+]

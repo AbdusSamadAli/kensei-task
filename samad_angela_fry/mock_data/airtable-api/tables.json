@@ -1,0 +1,9 @@
+[
+  {
+    "baseId": "appRootsRoster01",
+    "id": "tblContacts00001",
+    "name": "Students",
+    "primaryFieldId": "fldContactNm0001",
+    "records_csv": "records_contacts.json"
+  }
+]
